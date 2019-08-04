@@ -1,0 +1,2 @@
+export const NEW_INPUT_CHANGE="NEW_INPUT_CHANGE"
+

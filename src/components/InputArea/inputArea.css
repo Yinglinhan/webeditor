@@ -1,0 +1,8 @@
+.text-area{
+    height: 300px;
+    width: 300px;
+    resize:none;
+    outline: none;
+    border: 6px #333 solid;
+    font-size: 3rem;
+}
